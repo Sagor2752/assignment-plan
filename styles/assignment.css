@@ -3,6 +3,10 @@
     height: 809px;
 }
 
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .btn-primary {
     color: #FD6E0A;
     font-weight: 700;
@@ -137,6 +141,7 @@
     border-radius: 8px;
     width: 1600px;
 
+
 }
 
 
@@ -178,6 +183,10 @@ button {
     font-size: 16px;
     color: #FFFFFF;
 
+}
+
+.contact-item {
+    margin-left: 250px;
 }
 
 .contact-type {
