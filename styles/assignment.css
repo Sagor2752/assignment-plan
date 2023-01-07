@@ -1,0 +1,76 @@
+.banner {}
+
+.banner-title {
+    color: #151414;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+
+}
+
+.banner-description {
+    text-align: right;
+    align-items: center;
+
+}
+
+.header {
+    background-image: url("../images/banner/banner3.png");
+    width: 1600px;
+    height: 809px;
+    top: 0px;
+}
+
+.failure {
+    display: flex;
+    align-items: center;
+    margin: 200px 0;
+    left: 282px;
+
+
+
+}
+
+.failure li {
+    list-style: circle;
+}
+
+.failure-title {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.failure-description {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.plan {
+    margin-top: 130px;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    width: 1141px;
+    height: 299.96px;
+    left: 230px;
+    top: 1792.3px;
+
+
+}
+
+.plan-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
